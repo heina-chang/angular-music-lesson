@@ -1,5 +1,4 @@
 # Angular Music Lesson
-Angular 8 Material Design materializecss mock service Observable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
